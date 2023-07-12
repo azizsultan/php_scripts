@@ -1,5 +1,5 @@
 <?php
-
+//Shooting Email using gmail SMTP and PHP Mailer
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
